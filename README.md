@@ -1,4 +1,5 @@
 Specification for Task Manager Code
+this tool need to break complex task to a lot of small one and create agents for better result
 
 1. Overview:
 The Task Manager Code is responsible for assigning tasks to workers in a distributed system. It acts as a central coordinator, receiving tasks from a task queue and distributing them to available workers. The code should be designed to handle multiple workers and ensure efficient task allocation and execution.
